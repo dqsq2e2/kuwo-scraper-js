@@ -1,0 +1,8 @@
+{
+  "name": "kuwo-scraper-js",
+  "version": "1.0.0",
+  "description": "酷我听书刮削插件 (JavaScript 版本)",
+  "main": "plugin.js",
+  "author": "Ting Reader Team",
+  "license": "MIT"
+}

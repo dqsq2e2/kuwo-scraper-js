@@ -1,0 +1,19 @@
+{
+  "id": "kuwo-scraper-js",
+  "name": "kuwo scraper",
+  "version": "1.0.0",
+  "plugin_type": "scraper",
+  "author": "Ting Reader Team",
+  "description": "酷我听书刮削插件（JavaScript 实现）",
+  "runtime": "javascript",
+  "entry_point": "plugin.js",
+  "homepage": "https://github.com/dqsq2e2/kuwo-scraper-js",
+  "license": "MIT",
+  "dependencies": [],
+  "permissions": [
+    {
+      "type": "network_access",
+      "value": "*.kuwo.cn"
+    }
+  ]
+}
